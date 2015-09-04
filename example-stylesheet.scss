@@ -1,6 +1,8 @@
 body{
 	font-family: 'Signika', sans-serif;
 	font-weight:300;
+	padding:0;
+	margin:0;
 }
 h1,h2,h3,h4,h5{ font-weight:600; }
 pre {
@@ -52,4 +54,15 @@ code {
 	width:96%;
 	max-width:1200px;
 	margin:auto;
+}
+
+.footer-container{
+	background:#424242;
+	color:#ffffff;
+	margin-top:60px;
+}
+footer{
+	padding:10px 0;
+	
+	a{ color:#ffffff; &:hover{ color:#ffffff; text-decoration:none; }}
 }

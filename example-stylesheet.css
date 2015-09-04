@@ -2,14 +2,16 @@
 body {
   font-family: 'Signika', sans-serif;
   font-weight: 300;
+  padding: 0;
+  margin: 0;
 }
 
-/* line 5, example-stylesheet.scss */
+/* line 7, example-stylesheet.scss */
 h1, h2, h3, h4, h5 {
   font-weight: 600;
 }
 
-/* line 6, example-stylesheet.scss */
+/* line 8, example-stylesheet.scss */
 pre {
   font-size: 90%;
   line-height: 1.2em;
@@ -29,7 +31,7 @@ pre {
   border: solid 1px #e1e1e1;
 }
 
-/* line 25, example-stylesheet.scss */
+/* line 27, example-stylesheet.scss */
 code {
   font-size: 90%;
   line-height: 1.2em;
@@ -40,7 +42,7 @@ code {
   background: #f4f4f4;
 }
 
-/* line 35, example-stylesheet.scss */
+/* line 37, example-stylesheet.scss */
 .grid-example {
   padding: 10px 0;
   margin-bottom: 40px;
@@ -49,21 +51,42 @@ code {
   color: #ffffff;
 }
 
-/* line 43, example-stylesheet.scss */
+/* line 45, example-stylesheet.scss */
 .grid-example-gutterless:nth-child(even) {
   background: #cccccc;
 }
 
-/* line 48, example-stylesheet.scss */
+/* line 50, example-stylesheet.scss */
 .container {
   width: 100%;
 }
 
-/* line 51, example-stylesheet.scss */
+/* line 53, example-stylesheet.scss */
 .wrapper {
   width: 96%;
   max-width: 1200px;
   margin: auto;
+}
+
+/* line 59, example-stylesheet.scss */
+.footer-container {
+  background: #424242;
+  color: #ffffff;
+  margin-top: 60px;
+}
+
+/* line 64, example-stylesheet.scss */
+footer {
+  padding: 10px 0;
+}
+/* line 67, example-stylesheet.scss */
+footer a {
+  color: #ffffff;
+}
+/* line 67, example-stylesheet.scss */
+footer a:hover {
+  color: #ffffff;
+  text-decoration: none;
 }
 
 /*# sourceMappingURL=example-stylesheet.css.map */

@@ -1,24 +1,36 @@
-/* line 10, grootstrap.scss */
-.we-are-groot, .wearegroot, .We-Are-Groot, .WeAreGroot, .WE-ARE-GROOT, .WEAREGROOT {
+/*! Grootstrap Version 1.0.0 */
+/*! License: I am Groot */
+/* line 11, grootstrap.scss */
+.we-are-groot,
+.wearegroot,
+.We-Are-Groot,
+.WeAreGroot,
+.WE-ARE-GROOT,
+.WEAREGROOT {
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
 /* line 12, ../../../../Program Files (x86)/Prepros/gems/gems/susy-2.1.2/sass/susy/output/support/_clearfix.scss */
-.we-are-groot:after, .wearegroot:after, .We-Are-Groot:after, .WeAreGroot:after, .WE-ARE-GROOT:after, .WEAREGROOT:after {
+.we-are-groot:after,
+.wearegroot:after,
+.We-Are-Groot:after,
+.WeAreGroot:after,
+.WE-ARE-GROOT:after,
+.WEAREGROOT:after {
   content: " ";
   display: block;
   clear: both;
 }
 
-/* line 16, grootstrap.scss */
+/* line 22, grootstrap.scss */
 .i-am-groot {
   width: 6.66667%;
   float: left;
   margin-left: 0.83333%;
   margin-right: 0.83333%;
 }
-/* line 18, grootstrap.scss */
+/* line 24, grootstrap.scss */
 .i-am-groot:last-child {
   width: 6.66667%;
   float: right;
@@ -26,14 +38,14 @@
   margin-right: 0.83333%;
 }
 
-/* line 20, grootstrap.scss */
+/* line 28, grootstrap.scss */
 .i-am-grooot {
   width: 15%;
   float: left;
   margin-left: 0.83333%;
   margin-right: 0.83333%;
 }
-/* line 22, grootstrap.scss */
+/* line 30, grootstrap.scss */
 .i-am-grooot:last-child {
   width: 15%;
   float: right;
@@ -41,14 +53,14 @@
   margin-right: 0.83333%;
 }
 
-/* line 24, grootstrap.scss */
+/* line 34, grootstrap.scss */
 .i-am-groooot {
   width: 23.33333%;
   float: left;
   margin-left: 0.83333%;
   margin-right: 0.83333%;
 }
-/* line 26, grootstrap.scss */
+/* line 36, grootstrap.scss */
 .i-am-groooot:last-child {
   width: 23.33333%;
   float: right;
@@ -56,14 +68,14 @@
   margin-right: 0.83333%;
 }
 
-/* line 28, grootstrap.scss */
+/* line 40, grootstrap.scss */
 .i-am-grooooot {
   width: 31.66667%;
   float: left;
   margin-left: 0.83333%;
   margin-right: 0.83333%;
 }
-/* line 30, grootstrap.scss */
+/* line 42, grootstrap.scss */
 .i-am-grooooot:last-child {
   width: 31.66667%;
   float: right;
@@ -71,14 +83,14 @@
   margin-right: 0.83333%;
 }
 
-/* line 32, grootstrap.scss */
+/* line 46, grootstrap.scss */
 .i-am-groooooot {
   width: 40%;
   float: left;
   margin-left: 0.83333%;
   margin-right: 0.83333%;
 }
-/* line 34, grootstrap.scss */
+/* line 48, grootstrap.scss */
 .i-am-groooooot:last-child {
   width: 40%;
   float: right;
@@ -86,14 +98,14 @@
   margin-right: 0.83333%;
 }
 
-/* line 36, grootstrap.scss */
+/* line 52, grootstrap.scss */
 .i-am-grooooooot {
   width: 48.33333%;
   float: left;
   margin-left: 0.83333%;
   margin-right: 0.83333%;
 }
-/* line 38, grootstrap.scss */
+/* line 54, grootstrap.scss */
 .i-am-grooooooot:last-child {
   width: 48.33333%;
   float: right;
@@ -101,14 +113,14 @@
   margin-right: 0.83333%;
 }
 
-/* line 40, grootstrap.scss */
+/* line 58, grootstrap.scss */
 .i-am-groooooooot {
   width: 56.66667%;
   float: left;
   margin-left: 0.83333%;
   margin-right: 0.83333%;
 }
-/* line 42, grootstrap.scss */
+/* line 60, grootstrap.scss */
 .i-am-groooooooot:last-child {
   width: 56.66667%;
   float: right;
@@ -116,14 +128,14 @@
   margin-right: 0.83333%;
 }
 
-/* line 44, grootstrap.scss */
+/* line 64, grootstrap.scss */
 .i-am-grooooooooot {
   width: 65%;
   float: left;
   margin-left: 0.83333%;
   margin-right: 0.83333%;
 }
-/* line 46, grootstrap.scss */
+/* line 66, grootstrap.scss */
 .i-am-grooooooooot:last-child {
   width: 65%;
   float: right;
@@ -131,14 +143,14 @@
   margin-right: 0.83333%;
 }
 
-/* line 48, grootstrap.scss */
+/* line 70, grootstrap.scss */
 .i-am-groooooooooot {
   width: 73.33333%;
   float: left;
   margin-left: 0.83333%;
   margin-right: 0.83333%;
 }
-/* line 50, grootstrap.scss */
+/* line 72, grootstrap.scss */
 .i-am-groooooooooot:last-child {
   width: 73.33333%;
   float: right;
@@ -146,14 +158,14 @@
   margin-right: 0.83333%;
 }
 
-/* line 52, grootstrap.scss */
+/* line 76, grootstrap.scss */
 .i-am-grooooooooooot {
   width: 81.66667%;
   float: left;
   margin-left: 0.83333%;
   margin-right: 0.83333%;
 }
-/* line 54, grootstrap.scss */
+/* line 78, grootstrap.scss */
 .i-am-grooooooooooot:last-child {
   width: 81.66667%;
   float: right;
@@ -161,14 +173,14 @@
   margin-right: 0.83333%;
 }
 
-/* line 56, grootstrap.scss */
+/* line 82, grootstrap.scss */
 .i-am-groooooooooooot {
   width: 90%;
   float: left;
   margin-left: 0.83333%;
   margin-right: 0.83333%;
 }
-/* line 58, grootstrap.scss */
+/* line 84, grootstrap.scss */
 .i-am-groooooooooooot:last-child {
   width: 90%;
   float: right;
@@ -176,14 +188,14 @@
   margin-right: 0.83333%;
 }
 
-/* line 60, grootstrap.scss */
+/* line 88, grootstrap.scss */
 .i-am-grooooooooooooot {
   width: 98.33333%;
   float: left;
   margin-left: 0.83333%;
   margin-right: 0.83333%;
 }
-/* line 62, grootstrap.scss */
+/* line 90, grootstrap.scss */
 .i-am-grooooooooooooot:last-child {
   width: 98.33333%;
   float: right;
@@ -192,201 +204,179 @@
 }
 
 @media all and (min-width: 46.25em) {
-  /* line 66, grootstrap.scss */
+  /* line 96, grootstrap.scss */
   .I-Am-Groot {
     width: 6.66667%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 69, grootstrap.scss */
+  /* line 98, grootstrap.scss */
   .I-Am-Groot:last-child {
     width: 6.66667%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 72, grootstrap.scss */
+  /* line 102, grootstrap.scss */
   .I-Am-Grooot {
     width: 15%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 75, grootstrap.scss */
+  /* line 104, grootstrap.scss */
   .I-Am-Grooot:last-child {
     width: 15%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 78, grootstrap.scss */
+  /* line 108, grootstrap.scss */
   .I-Am-Groooot {
     width: 23.33333%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 81, grootstrap.scss */
+  /* line 110, grootstrap.scss */
   .I-Am-Groooot:last-child {
     width: 23.33333%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 84, grootstrap.scss */
+  /* line 114, grootstrap.scss */
   .I-Am-Grooooot {
     width: 31.66667%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 87, grootstrap.scss */
+  /* line 116, grootstrap.scss */
   .I-Am-Grooooot:last-child {
     width: 31.66667%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 90, grootstrap.scss */
+  /* line 120, grootstrap.scss */
   .I-Am-Groooooot {
     width: 40%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 93, grootstrap.scss */
+  /* line 122, grootstrap.scss */
   .I-Am-Groooooot:last-child {
     width: 40%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 96, grootstrap.scss */
+  /* line 126, grootstrap.scss */
   .I-Am-Grooooooot {
     width: 48.33333%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 99, grootstrap.scss */
+  /* line 128, grootstrap.scss */
   .I-Am-Grooooooot:last-child {
     width: 48.33333%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 102, grootstrap.scss */
+  /* line 132, grootstrap.scss */
   .I-Am-Groooooooot {
     width: 56.66667%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 105, grootstrap.scss */
+  /* line 134, grootstrap.scss */
   .I-Am-Groooooooot:last-child {
     width: 56.66667%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 108, grootstrap.scss */
+  /* line 138, grootstrap.scss */
   .I-Am-Grooooooooot {
     width: 65%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 111, grootstrap.scss */
+  /* line 140, grootstrap.scss */
   .I-Am-Grooooooooot:last-child {
     width: 65%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 114, grootstrap.scss */
+  /* line 144, grootstrap.scss */
   .I-Am-Groooooooooot {
     width: 73.33333%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 117, grootstrap.scss */
+  /* line 146, grootstrap.scss */
   .I-Am-Groooooooooot:last-child {
     width: 73.33333%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 120, grootstrap.scss */
+  /* line 150, grootstrap.scss */
   .I-Am-Grooooooooooot {
     width: 81.66667%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 123, grootstrap.scss */
+  /* line 152, grootstrap.scss */
   .I-Am-Grooooooooooot:last-child {
     width: 81.66667%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 126, grootstrap.scss */
+  /* line 156, grootstrap.scss */
   .I-Am-Groooooooooooot {
     width: 90%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 129, grootstrap.scss */
+  /* line 158, grootstrap.scss */
   .I-Am-Groooooooooooot:last-child {
     width: 90%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 132, grootstrap.scss */
+  /* line 162, grootstrap.scss */
   .I-Am-Grooooooooooooot {
     width: 98.33333%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 135, grootstrap.scss */
+  /* line 164, grootstrap.scss */
   .I-Am-Grooooooooooooot:last-child {
     width: 98.33333%;
     float: right;
@@ -394,203 +384,180 @@
     margin-right: 0.83333%;
   }
 }
-
 @media all and (min-width: 61.25em) {
-  /* line 140, grootstrap.scss */
+  /* line 171, grootstrap.scss */
   .I-AM-GROOT {
     width: 6.66667%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 143, grootstrap.scss */
+  /* line 173, grootstrap.scss */
   .I-AM-GROOT:last-child {
     width: 6.66667%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 146, grootstrap.scss */
+  /* line 177, grootstrap.scss */
   .I-AM-GROOOT {
     width: 15%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 149, grootstrap.scss */
+  /* line 179, grootstrap.scss */
   .I-AM-GROOOT:last-child {
     width: 15%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 152, grootstrap.scss */
+  /* line 183, grootstrap.scss */
   .I-AM-GROOOOT {
     width: 23.33333%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 155, grootstrap.scss */
+  /* line 185, grootstrap.scss */
   .I-AM-GROOOOT:last-child {
     width: 23.33333%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 158, grootstrap.scss */
+  /* line 189, grootstrap.scss */
   .I-AM-GROOOOOT {
     width: 31.66667%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 161, grootstrap.scss */
+  /* line 191, grootstrap.scss */
   .I-AM-GROOOOOT:last-child {
     width: 31.66667%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 164, grootstrap.scss */
+  /* line 195, grootstrap.scss */
   .I-AM-GROOOOOOT {
     width: 40%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 167, grootstrap.scss */
+  /* line 197, grootstrap.scss */
   .I-AM-GROOOOOOT:last-child {
     width: 40%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 170, grootstrap.scss */
+  /* line 201, grootstrap.scss */
   .I-AM-GROOOOOOOT {
     width: 48.33333%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 173, grootstrap.scss */
+  /* line 203, grootstrap.scss */
   .I-AM-GROOOOOOOT:last-child {
     width: 48.33333%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 176, grootstrap.scss */
+  /* line 207, grootstrap.scss */
   .I-AM-GROOOOOOOOT {
     width: 56.66667%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 179, grootstrap.scss */
+  /* line 209, grootstrap.scss */
   .I-AM-GROOOOOOOOT:last-child {
     width: 56.66667%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 182, grootstrap.scss */
+  /* line 213, grootstrap.scss */
   .I-AM-GROOOOOOOOOT {
     width: 65%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 185, grootstrap.scss */
+  /* line 215, grootstrap.scss */
   .I-AM-GROOOOOOOOOT:last-child {
     width: 65%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 188, grootstrap.scss */
+  /* line 219, grootstrap.scss */
   .I-AM-GROOOOOOOOOOT {
     width: 73.33333%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 191, grootstrap.scss */
+  /* line 221, grootstrap.scss */
   .I-AM-GROOOOOOOOOOT:last-child {
     width: 73.33333%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 194, grootstrap.scss */
+  /* line 225, grootstrap.scss */
   .I-AM-GROOOOOOOOOOOT {
     width: 81.66667%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 197, grootstrap.scss */
+  /* line 227, grootstrap.scss */
   .I-AM-GROOOOOOOOOOOT:last-child {
     width: 81.66667%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 200, grootstrap.scss */
+  /* line 231, grootstrap.scss */
   .I-AM-GROOOOOOOOOOOOT {
     width: 90%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 203, grootstrap.scss */
+  /* line 233, grootstrap.scss */
   .I-AM-GROOOOOOOOOOOOT:last-child {
     width: 90%;
     float: right;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 206, grootstrap.scss */
+  /* line 237, grootstrap.scss */
   .I-AM-GROOOOOOOOOOOOOT {
     width: 98.33333%;
     float: left;
     margin-left: 0.83333%;
     margin-right: 0.83333%;
   }
-  /* line 209, grootstrap.scss */
+  /* line 239, grootstrap.scss */
   .I-AM-GROOOOOOOOOOOOOT:last-child {
     width: 98.33333%;
     float: right;
@@ -598,8 +565,7 @@
     margin-right: 0.83333%;
   }
 }
-
-/* line 215, grootstrap.scss */
+/* line 248, grootstrap.scss */
 .iamgroot {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -609,7 +575,7 @@
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 217, grootstrap.scss */
+/* line 250, grootstrap.scss */
 .iamgroot:last-child {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -620,7 +586,7 @@
   padding-right: 0.83333%;
 }
 
-/* line 219, grootstrap.scss */
+/* line 254, grootstrap.scss */
 .iamgrooot {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -630,7 +596,7 @@
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 221, grootstrap.scss */
+/* line 256, grootstrap.scss */
 .iamgrooot:last-child {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -641,7 +607,7 @@
   padding-right: 0.83333%;
 }
 
-/* line 223, grootstrap.scss */
+/* line 260, grootstrap.scss */
 .iamgroooot {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -651,7 +617,7 @@
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 225, grootstrap.scss */
+/* line 262, grootstrap.scss */
 .iamgroooot:last-child {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -662,7 +628,7 @@
   padding-right: 0.83333%;
 }
 
-/* line 227, grootstrap.scss */
+/* line 266, grootstrap.scss */
 .iamgrooooot {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -672,7 +638,7 @@
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 229, grootstrap.scss */
+/* line 268, grootstrap.scss */
 .iamgrooooot:last-child {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -683,7 +649,7 @@
   padding-right: 0.83333%;
 }
 
-/* line 231, grootstrap.scss */
+/* line 272, grootstrap.scss */
 .iamgroooooot {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -693,7 +659,7 @@
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 233, grootstrap.scss */
+/* line 274, grootstrap.scss */
 .iamgroooooot:last-child {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -704,7 +670,7 @@
   padding-right: 0.83333%;
 }
 
-/* line 235, grootstrap.scss */
+/* line 278, grootstrap.scss */
 .iamgrooooooot {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -714,7 +680,7 @@
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 237, grootstrap.scss */
+/* line 280, grootstrap.scss */
 .iamgrooooooot:last-child {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -725,7 +691,7 @@
   padding-right: 0.83333%;
 }
 
-/* line 239, grootstrap.scss */
+/* line 284, grootstrap.scss */
 .iamgroooooooot {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -735,7 +701,7 @@
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 241, grootstrap.scss */
+/* line 286, grootstrap.scss */
 .iamgroooooooot:last-child {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -746,7 +712,7 @@
   padding-right: 0.83333%;
 }
 
-/* line 243, grootstrap.scss */
+/* line 290, grootstrap.scss */
 .iamgrooooooooot {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -756,7 +722,7 @@
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 245, grootstrap.scss */
+/* line 292, grootstrap.scss */
 .iamgrooooooooot:last-child {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -767,7 +733,7 @@
   padding-right: 0.83333%;
 }
 
-/* line 247, grootstrap.scss */
+/* line 296, grootstrap.scss */
 .iamgroooooooooot {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -777,7 +743,7 @@
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 249, grootstrap.scss */
+/* line 298, grootstrap.scss */
 .iamgroooooooooot:last-child {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -788,7 +754,7 @@
   padding-right: 0.83333%;
 }
 
-/* line 251, grootstrap.scss */
+/* line 302, grootstrap.scss */
 .iamgrooooooooooot {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -798,7 +764,7 @@
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 253, grootstrap.scss */
+/* line 304, grootstrap.scss */
 .iamgrooooooooooot:last-child {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -809,7 +775,7 @@
   padding-right: 0.83333%;
 }
 
-/* line 255, grootstrap.scss */
+/* line 308, grootstrap.scss */
 .iamgroooooooooooot {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -819,7 +785,7 @@
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 257, grootstrap.scss */
+/* line 310, grootstrap.scss */
 .iamgroooooooooooot:last-child {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -830,7 +796,7 @@
   padding-right: 0.83333%;
 }
 
-/* line 259, grootstrap.scss */
+/* line 314, grootstrap.scss */
 .iamgrooooooooooooot {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -840,7 +806,7 @@
   padding-left: 0.83333%;
   padding-right: 0.83333%;
 }
-/* line 261, grootstrap.scss */
+/* line 316, grootstrap.scss */
 .iamgrooooooooooooot:last-child {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -852,7 +818,7 @@
 }
 
 @media all and (min-width: 46.25em) {
-  /* line 265, grootstrap.scss */
+  /* line 322, grootstrap.scss */
   .IAmGroot {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -862,7 +828,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 268, grootstrap.scss */
+  /* line 324, grootstrap.scss */
   .IAmGroot:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -872,10 +838,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 271, grootstrap.scss */
+  /* line 328, grootstrap.scss */
   .IAmGrooot {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -885,7 +849,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 274, grootstrap.scss */
+  /* line 330, grootstrap.scss */
   .IAmGrooot:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -895,10 +859,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 277, grootstrap.scss */
+  /* line 334, grootstrap.scss */
   .IAmGroooot {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -908,7 +870,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 280, grootstrap.scss */
+  /* line 336, grootstrap.scss */
   .IAmGroooot:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -918,10 +880,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 283, grootstrap.scss */
+  /* line 340, grootstrap.scss */
   .IAmGrooooot {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -931,7 +891,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 286, grootstrap.scss */
+  /* line 342, grootstrap.scss */
   .IAmGrooooot:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -941,10 +901,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 289, grootstrap.scss */
+  /* line 346, grootstrap.scss */
   .IAmGroooooot {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -954,7 +912,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 292, grootstrap.scss */
+  /* line 348, grootstrap.scss */
   .IAmGroooooot:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -964,10 +922,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 295, grootstrap.scss */
+  /* line 352, grootstrap.scss */
   .IAmGrooooooot {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -977,7 +933,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 298, grootstrap.scss */
+  /* line 354, grootstrap.scss */
   .IAmGrooooooot:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -987,10 +943,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 301, grootstrap.scss */
+  /* line 358, grootstrap.scss */
   .IAmGroooooooot {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1000,7 +954,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 304, grootstrap.scss */
+  /* line 360, grootstrap.scss */
   .IAmGroooooooot:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1010,10 +964,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 307, grootstrap.scss */
+  /* line 364, grootstrap.scss */
   .IAmGrooooooooot {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1023,7 +975,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 310, grootstrap.scss */
+  /* line 366, grootstrap.scss */
   .IAmGrooooooooot:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1033,10 +985,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 313, grootstrap.scss */
+  /* line 370, grootstrap.scss */
   .IAmGroooooooooot {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1046,7 +996,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 316, grootstrap.scss */
+  /* line 372, grootstrap.scss */
   .IAmGroooooooooot:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1056,10 +1006,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 319, grootstrap.scss */
+  /* line 376, grootstrap.scss */
   .IAmGrooooooooooot {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1069,7 +1017,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 322, grootstrap.scss */
+  /* line 378, grootstrap.scss */
   .IAmGrooooooooooot:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1079,10 +1027,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 325, grootstrap.scss */
+  /* line 382, grootstrap.scss */
   .IAmGroooooooooooot {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1092,7 +1038,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 328, grootstrap.scss */
+  /* line 384, grootstrap.scss */
   .IAmGroooooooooooot:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1102,10 +1048,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 46.25em) {
-  /* line 331, grootstrap.scss */
+  /* line 388, grootstrap.scss */
   .IAmGrooooooooooooot {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1115,7 +1059,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 334, grootstrap.scss */
+  /* line 390, grootstrap.scss */
   .IAmGrooooooooooooot:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1126,9 +1070,8 @@
     padding-right: 0.83333%;
   }
 }
-
 @media all and (min-width: 61.25em) {
-  /* line 339, grootstrap.scss */
+  /* line 397, grootstrap.scss */
   .IAMGROOT {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1138,7 +1081,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 342, grootstrap.scss */
+  /* line 399, grootstrap.scss */
   .IAMGROOT:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1148,10 +1091,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 345, grootstrap.scss */
+  /* line 403, grootstrap.scss */
   .IAMGROOOT {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1161,7 +1102,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 348, grootstrap.scss */
+  /* line 405, grootstrap.scss */
   .IAMGROOOT:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1171,10 +1112,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 351, grootstrap.scss */
+  /* line 409, grootstrap.scss */
   .IAMGROOOOT {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1184,7 +1123,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 354, grootstrap.scss */
+  /* line 411, grootstrap.scss */
   .IAMGROOOOT:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1194,10 +1133,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 357, grootstrap.scss */
+  /* line 415, grootstrap.scss */
   .IAMGROOOOOT {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1207,7 +1144,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 360, grootstrap.scss */
+  /* line 417, grootstrap.scss */
   .IAMGROOOOOT:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1217,10 +1154,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 363, grootstrap.scss */
+  /* line 421, grootstrap.scss */
   .IAMGROOOOOOT {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1230,7 +1165,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 366, grootstrap.scss */
+  /* line 423, grootstrap.scss */
   .IAMGROOOOOOT:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1240,10 +1175,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 369, grootstrap.scss */
+  /* line 427, grootstrap.scss */
   .IAMGROOOOOOOT {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1253,7 +1186,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 372, grootstrap.scss */
+  /* line 429, grootstrap.scss */
   .IAMGROOOOOOOT:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1263,10 +1196,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 375, grootstrap.scss */
+  /* line 433, grootstrap.scss */
   .IAMGROOOOOOOOT {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1276,7 +1207,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 378, grootstrap.scss */
+  /* line 435, grootstrap.scss */
   .IAMGROOOOOOOOT:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1286,10 +1217,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 381, grootstrap.scss */
+  /* line 439, grootstrap.scss */
   .IAMGROOOOOOOOOT {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1299,7 +1228,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 384, grootstrap.scss */
+  /* line 441, grootstrap.scss */
   .IAMGROOOOOOOOOT:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1309,10 +1238,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 387, grootstrap.scss */
+  /* line 445, grootstrap.scss */
   .IAMGROOOOOOOOOOT {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1322,7 +1249,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 390, grootstrap.scss */
+  /* line 447, grootstrap.scss */
   .IAMGROOOOOOOOOOT:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1332,10 +1259,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 393, grootstrap.scss */
+  /* line 451, grootstrap.scss */
   .IAMGROOOOOOOOOOOT {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1345,7 +1270,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 396, grootstrap.scss */
+  /* line 453, grootstrap.scss */
   .IAMGROOOOOOOOOOOT:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1355,10 +1280,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 399, grootstrap.scss */
+  /* line 457, grootstrap.scss */
   .IAMGROOOOOOOOOOOOT {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1368,7 +1291,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 402, grootstrap.scss */
+  /* line 459, grootstrap.scss */
   .IAMGROOOOOOOOOOOOT:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1378,10 +1301,8 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-}
 
-@media all and (min-width: 61.25em) {
-  /* line 405, grootstrap.scss */
+  /* line 463, grootstrap.scss */
   .IAMGROOOOOOOOOOOOOT {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1391,7 +1312,7 @@
     padding-left: 0.83333%;
     padding-right: 0.83333%;
   }
-  /* line 408, grootstrap.scss */
+  /* line 465, grootstrap.scss */
   .IAMGROOOOOOOOOOOOOT:last-child {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;

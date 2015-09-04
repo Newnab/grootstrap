@@ -1,0 +1,10 @@
+# use glob syntax
+syntax: glob
+
+**/node_modules/
+**/node_modules/*
+**/.sass-cache/
+**/.sass-cache/*
+/node_modules/*
+.sass-cache
+.sass-cache/*
