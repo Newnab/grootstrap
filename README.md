@@ -26,4 +26,4 @@ In this example, the div will span 12 columns on mobile, 6 on tablet and 4 on de
 
 ## I need more help!
 
-Check out [the examples page](https://cdn.rawgit.com/Newnab/grootstrap/master/examples.html)!
+Check out [the examples page](https://rawgit.com/Newnab/grootstrap/master/examples.html)!
