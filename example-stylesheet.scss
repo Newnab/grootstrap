@@ -3,6 +3,7 @@ body{
 	font-weight:300;
 	padding:0;
 	margin:0;
+	background:#E7FEE6;
 }
 h1,h2,h3,h4,h5{ font-weight:600; }
 pre {
@@ -37,13 +38,13 @@ code {
 .grid-example{
 	padding:10px 0;
 	margin-bottom:40px; 
-	background:#000000;
+	background:#006600;
 	text-align:center;
 	color:#ffffff;
 }
 .grid-example-gutterless{
 	&:nth-child(even){
-		background:#cccccc;
+		background:#002900;
 	}
 }
 

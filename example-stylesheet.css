@@ -4,14 +4,15 @@ body {
   font-weight: 300;
   padding: 0;
   margin: 0;
+  background: #E7FEE6;
 }
 
-/* line 7, example-stylesheet.scss */
+/* line 8, example-stylesheet.scss */
 h1, h2, h3, h4, h5 {
   font-weight: 600;
 }
 
-/* line 8, example-stylesheet.scss */
+/* line 9, example-stylesheet.scss */
 pre {
   font-size: 90%;
   line-height: 1.2em;
@@ -31,7 +32,7 @@ pre {
   border: solid 1px #e1e1e1;
 }
 
-/* line 27, example-stylesheet.scss */
+/* line 28, example-stylesheet.scss */
 code {
   font-size: 90%;
   line-height: 1.2em;
@@ -42,48 +43,48 @@ code {
   background: #f4f4f4;
 }
 
-/* line 37, example-stylesheet.scss */
+/* line 38, example-stylesheet.scss */
 .grid-example {
   padding: 10px 0;
   margin-bottom: 40px;
-  background: #000000;
+  background: #006600;
   text-align: center;
   color: #ffffff;
 }
 
-/* line 45, example-stylesheet.scss */
+/* line 46, example-stylesheet.scss */
 .grid-example-gutterless:nth-child(even) {
-  background: #cccccc;
+  background: #002900;
 }
 
-/* line 50, example-stylesheet.scss */
+/* line 51, example-stylesheet.scss */
 .container {
   width: 100%;
 }
 
-/* line 53, example-stylesheet.scss */
+/* line 54, example-stylesheet.scss */
 .wrapper {
   width: 96%;
   max-width: 1200px;
   margin: auto;
 }
 
-/* line 59, example-stylesheet.scss */
+/* line 60, example-stylesheet.scss */
 .footer-container {
   background: #424242;
   color: #ffffff;
   margin-top: 60px;
 }
 
-/* line 64, example-stylesheet.scss */
+/* line 65, example-stylesheet.scss */
 footer {
   padding: 10px 0;
 }
-/* line 67, example-stylesheet.scss */
+/* line 68, example-stylesheet.scss */
 footer a {
   color: #ffffff;
 }
-/* line 67, example-stylesheet.scss */
+/* line 68, example-stylesheet.scss */
 footer a:hover {
   color: #ffffff;
   text-decoration: none;
