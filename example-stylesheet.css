@@ -13,6 +13,30 @@ h1, h2, h3, h4, h5 {
 }
 
 /* line 9, example-stylesheet.scss */
+.header-container {
+  background: #997141;
+  margin-bottom: 40px;
+  box-shadow: 0px 0px 5px #888888;
+}
+
+/* line 14, example-stylesheet.scss */
+header {
+  padding: 40px 0;
+}
+/* line 17, example-stylesheet.scss */
+header h1 {
+  margin-bottom: 0;
+  color: #ffffff;
+}
+
+/* line 19, example-stylesheet.scss */
+.grootstrap-logo {
+  width: 450px;
+  height: auto;
+  max-width: 100%;
+}
+
+/* line 24, example-stylesheet.scss */
 pre {
   font-size: 90%;
   line-height: 1.2em;
@@ -32,7 +56,7 @@ pre {
   border: solid 1px #e1e1e1;
 }
 
-/* line 28, example-stylesheet.scss */
+/* line 43, example-stylesheet.scss */
 code {
   font-size: 90%;
   line-height: 1.2em;
@@ -43,7 +67,7 @@ code {
   background: #f4f4f4;
 }
 
-/* line 38, example-stylesheet.scss */
+/* line 53, example-stylesheet.scss */
 .grid-example {
   padding: 10px 0;
   margin-bottom: 40px;
@@ -52,39 +76,39 @@ code {
   color: #ffffff;
 }
 
-/* line 46, example-stylesheet.scss */
+/* line 61, example-stylesheet.scss */
 .grid-example-gutterless:nth-child(even) {
   background: #002900;
 }
 
-/* line 51, example-stylesheet.scss */
+/* line 66, example-stylesheet.scss */
 .container {
   width: 100%;
 }
 
-/* line 54, example-stylesheet.scss */
+/* line 69, example-stylesheet.scss */
 .wrapper {
   width: 96%;
   max-width: 1200px;
   margin: auto;
 }
 
-/* line 60, example-stylesheet.scss */
+/* line 75, example-stylesheet.scss */
 .footer-container {
   background: #424242;
   color: #ffffff;
   margin-top: 60px;
 }
 
-/* line 65, example-stylesheet.scss */
+/* line 80, example-stylesheet.scss */
 footer {
   padding: 10px 0;
 }
-/* line 68, example-stylesheet.scss */
+/* line 83, example-stylesheet.scss */
 footer a {
   color: #ffffff;
 }
-/* line 68, example-stylesheet.scss */
+/* line 83, example-stylesheet.scss */
 footer a:hover {
   color: #ffffff;
   text-decoration: none;

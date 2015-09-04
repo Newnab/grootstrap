@@ -6,6 +6,21 @@ body{
 	background:#E7FEE6;
 }
 h1,h2,h3,h4,h5{ font-weight:600; }
+.header-container{
+	background:#997141;
+	margin-bottom:40px;
+	box-shadow:0px 0px 5px #888888;
+}
+header{
+	padding:40px 0;
+	
+	h1{ margin-bottom:0; color:#ffffff; }
+}
+.grootstrap-logo{
+	width:450px;
+	height:auto;
+	max-width:100%;
+}
 pre {
     font-size: 90%;
     line-height: 1.2em;
