@@ -17,7 +17,7 @@
         <script type="text/javascript">
             WebFont.load({
 				google: {
-					families: ['Signika:300,400:latin']
+					families: ['Signika:300,400,600:latin']
 				},
                 timeout: 5000 // Set the timeout
             });
@@ -50,44 +50,98 @@
         <div class="main-container container">
             <div class="main wrapper clearfix">
 				<h2>What the hell?</h2>
-				<p>Did you know that Bootstrap features approximately 0% Vin Diesel? That's just not acceptable in this day and age, is it? So I've picked a cultural icon from a Marvel movie and made it into a thing you could theoretically actually use in production. For those of us who want to cover our markup in excessive, hard to read references to Guardians of the Galaxy, this is the grid framework for you. <a href="https://github.com/Newnab/grootstrap">Grab it from Github if you want</a>.</p>
+				<p>Did you know that Bootstrap features approximately zero Marvel movie references? That's just not acceptable in this day and age, is it? So I've clumsily shoehorned Vin Diesel's sensational work as a talking tree into a CSS stylesheet and made it into a thing you could theoretically actually use in production. For those of you who want to cover your markup in excessive, hard to read references to Guardians of the Galaxy, this is the grid framework for you. <a href="https://github.com/Newnab/grootstrap">Grab it from Github if you want</a>.</p>
 				<h2>Rows</h2>
-				<p>Make a row with "we-are-groot", any capitalisation allowed, hyphens optional.</p>
+				<p>Make a row or new layout context by adding the class <code>we-are-groot</code> to your container. Faster than <a href="https://www.youtube.com/watch?v=svtLfoGH19c">Drax' reflexes</a>, and easier than an <a href=""http://marvelcinematicuniverse.wikia.com/wiki/Aaskvarians">Aaskvarian</a>.</p>
 				<h2>Columns</h2>
-				<p>The number of o's in the word groot dictates how many columns to span - i-am-groot will span 1, i-am-grooot will span 2, and so on.</p>
-				<h2>Responsive</h2>
-				<p>Grootstrap is mobile first and comes with two baked in breakpoints - Use titlecase to indicate a tablet column width, and uppercase to indicate a desktop column width.</p>
-				<p> So, a &lt;div class="i-am-grooooooooooooot I-Am-Grooooooot I-AM-GROOOOOT"&gtl&lt;/div&gt; will span 12 columns on mobile, 6 on tablet and 4 on desktop.</p>
+				<p>Here's where it gets fun. The number of o's in the word groot dictates how many columns to span, starting from two o's.</p>
+				<p> That means that <code>i-am-groot</code> will span 1, <code>i-am-grooot</code> will span 2, and so on, right up to <code>i-am-grooooooooooooot</code> which will span all 12 columns.</p>
 				<h2>Grid</h2>
 				<div class="we-are-groot">
-                    <div class="i-am-groot">1</div>
-                    <div class="i-am-groot">2</div>
-                    <div class="i-am-groot">3</div>
-                    <div class="i-am-groot">4</div>
-                    <div class="i-am-groot">5</div>
-                    <div class="i-am-groot">6</div>
-                    <div class="i-am-groot">7</div>
-                    <div class="i-am-groot">8</div>
-                    <div class="i-am-groot">9</div>
-                    <div class="i-am-groot">10</div>
-                    <div class="i-am-groot">11</div>
-                    <div class="i-am-groot">12</div>
+                    <div class="i-am-groot grid-example">1</div>
+                    <div class="i-am-groot grid-example">2</div>
+                    <div class="i-am-groot grid-example">3</div>
+                    <div class="i-am-groot grid-example">4</div>
+                    <div class="i-am-groot grid-example">5</div>
+                    <div class="i-am-groot grid-example">6</div>
+                    <div class="i-am-groot grid-example">7</div>
+                    <div class="i-am-groot grid-example">8</div>
+                    <div class="i-am-groot grid-example">9</div>
+                    <div class="i-am-groot grid-example">10</div>
+                    <div class="i-am-groot grid-example">11</div>
+                    <div class="i-am-groot grid-example">12</div>
+                </div>
+				<div class="we-are-groot">
+                    <div class="i-am-grooooooot grid-example">1</div>
+                    <div class="i-am-grooooooot grid-example">2</div>
+                </div>
+				<div class="we-are-groot">
+                    <div class="i-am-grooooot grid-example">1</div>
+                    <div class="i-am-grooooot grid-example">2</div>
+					<div class="i-am-grooooot grid-example">3</div>
+                </div>
+				<div class="we-are-groot">
+                    <div class="i-am-groooot grid-example">1</div>
+                    <div class="i-am-groooot grid-example">2</div>
+					<div class="i-am-groooot grid-example">3</div>
+					<div class="i-am-groooot grid-example">4</div>
+                </div>
+				<div class="we-are-groot">
+                    <div class="i-am-grooooooooot grid-example">1</div>
+                    <div class="i-am-grooooot grid-example">2</div>
                 </div>
                 <h2>No Gutter</h2>
-				<p>To go gutterless, just take out the hyphens between the words "I am Groot"</p>
-                <div class="we-are-groot">
-                    <div class="iamgroot">1</div>
-                    <div class="iamgroot">2</div>
-                    <div class="iamgroot">3</div>
-                    <div class="iamgroot">4</div>
-                    <div class="iamgroot">5</div>
-                    <div class="iamgroot">6</div>
-                    <div class="iamgroot">7</div>
-                    <div class="iamgroot">8</div>
-                    <div class="iamgroot">9</div>
-                    <div class="iamgroot">10</div>
-                    <div class="iamgroot">11</div>
-                    <div class="iamgroot">12</div>
+				<p>To go gutterless, just take out the hyphens between the words "I am Groot" - Like so: <code>iamgroot</code></p>
+                <div class="wearegroot">
+                    <div class="iamgroot grid-example grid-example-gutterless">1</div>
+                    <div class="iamgroot grid-example grid-example-gutterless">2</div>
+                    <div class="iamgroot grid-example grid-example-gutterless">3</div>
+                    <div class="iamgroot grid-example grid-example-gutterless">4</div>
+                    <div class="iamgroot grid-example grid-example-gutterless">5</div>
+                    <div class="iamgroot grid-example grid-example-gutterless">6</div>
+                    <div class="iamgroot grid-example grid-example-gutterless">7</div>
+                    <div class="iamgroot grid-example grid-example-gutterless">8</div>
+                    <div class="iamgroot grid-example grid-example-gutterless">9</div>
+                    <div class="iamgroot grid-example grid-example-gutterless">10</div>
+                    <div class="iamgroot grid-example grid-example-gutterless">11</div>
+                    <div class="iamgroot grid-example grid-example-gutterless">12</div>
+                </div>
+				<div class="wearegroot">
+                    <div class="iamgrooooooot grid-example grid-example-gutterless">1</div>
+                    <div class="iamgrooooooot grid-example grid-example-gutterless">2</div>
+                </div>
+				<div class="wearegroot">
+                    <div class="iamgrooooot grid-example grid-example-gutterless">1</div>
+                    <div class="iamgrooooot grid-example grid-example-gutterless">2</div>
+					<div class="iamgrooooot grid-example grid-example-gutterless">3</div>
+                </div>
+				<div class="wearegroot">
+                    <div class="iamgroooot grid-example grid-example-gutterless">1</div>
+                    <div class="iamgroooot grid-example grid-example-gutterless">2</div>
+					<div class="iamgroooot grid-example grid-example-gutterless">3</div>
+					<div class="iamgroooot grid-example grid-example-gutterless">4</div>
+                </div>
+				<div class="wearegroot">
+                    <div class="iamgrooooooooot grid-example grid-example-gutterless">1</div>
+                    <div class="iamgrooooot grid-example grid-example-gutterless">2</div>
+                </div>
+				<h2>Responsive</h2>
+				<p>Grootstrap is mobile first and comes with two baked in breakpoints - Use titlecase to indicate a tablet column width, and uppercase to indicate a desktop column width.</p>
+				<p><pre>&lt;div class="i-am-grooooooooooooot I-Am-Grooooooot I-AM-GROOOOT"&gtl&lt;/div&gt;</pre></p>
+				<p>In this example, the div will span 12 columns on mobile, 6 on tablet and 4 on desktop. Resize the page to see it in action below</p>
+				<div class="we-are-groot">
+                    <div class="i-am-grooooooooooooot I-Am-Grooooooot I-AM-GROOOOT grid-example">1</div>
+                    <div class="i-am-grooooooooooooot I-Am-Grooooooot I-AM-GROOOOT grid-example">2</div>
+					<div class="i-am-grooooooooooooot I-Am-Grooooooot I-AM-GROOOOT grid-example">3</div>
+					<div class="i-am-grooooooooooooot I-Am-Grooooooot I-AM-GROOOOT grid-example">4</div>
+                </div>
+				<p>You can also use the gutterless grid in this way.</p>
+				<p><pre>&lt;div class="iamgrooooooooooooot IAmGrooooooot IAMGROOOOT"&gtl&lt;/div&gt;</pre></p>
+				<div class="wearegroot">
+                    <div class="iamgrooooooooooooot IAmGrooooooot IAMGROOOOT grid-example grid-example-gutterless">1</div>
+                    <div class="iamgrooooooooooooot IAmGrooooooot IAMGROOOOT grid-example grid-example-gutterless">2</div>
+					<div class="iamgrooooooooooooot IAmGrooooooot IAMGROOOOT grid-example grid-example-gutterless">3</div>
+					<div class="iamgrooooooooooooot IAmGrooooooot IAMGROOOOT grid-example grid-example-gutterless">4</div>
                 </div>
             </div> <!-- #main -->
         </div> <!-- #main-container -->

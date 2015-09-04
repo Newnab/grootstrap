@@ -11,215 +11,198 @@ $susy: (
 	@include container;
 }
 
-// 1
+//// Default
+// Mobile 
 .i-am-groot{ 
 	@include span(1);  
 	&:last-child{ @include span(1 last); } 
 }
+.i-am-grooot{ 
+	@include span(2);  
+	&:last-child{ @include span(2 last); } 
+}
+.i-am-groooot{ 
+	@include span(3);  
+	&:last-child{ @include span(3 last); } 
+}
+.i-am-grooooot{ 
+	@include span(4);  
+	&:last-child{ @include span(4 last); } 
+}
+.i-am-groooooot{ 
+	@include span(5);  
+	&:last-child{ @include span(5 last); } 
+}
+.i-am-grooooooot{ 
+	@include span(6);  
+	&:last-child{ @include span(6 last); } 
+}
+.i-am-groooooooot{ 
+	@include span(7);  
+	&:last-child{ @include span(7 last); } 
+}
+.i-am-grooooooooot{ 
+	@include span(8);  
+	&:last-child{ @include span(8 last); } 
+}
+.i-am-groooooooooot{ 
+	@include span(9);  
+	&:last-child{ @include span(9 last); } 
+}
+.i-am-grooooooooooot{ 
+	@include span(10);  
+	&:last-child{ @include span(10 last); } 
+}
+.i-am-groooooooooooot{ 
+	@include span(11);  
+	&:last-child{ @include span(11 last); } 
+}
+.i-am-grooooooooooooot{ 
+	@include span(12);  
+	&:last-child{ @include span(12 last); } 
+}
+
+// Tablet
 .I-Am-Groot{
 	@include mq($from: tablet){
 		@include span(1);  
 		&:last-child{ @include span(1 last); } 
 	}
 } 
-.I-AM-GROOT{
-	@include mq($from: desktop){
-		@include span(1);  
-		&:last-child{ @include span(1 last); } 
-	}
-}
-
-// 2
-.i-am-grooot{ 
-	@include span(2);  
-	&:last-child{ @include span(2 last); } 
-}
 .I-Am-Grooot{
 	@include mq($from: tablet){
 		@include span(2);  
 		&:last-child{ @include span(2 last); } 
 	}
 } 
-.I-AM-GROOOT{
-	@include mq($from: desktop){
-		@include span(2);  
-		&:last-child{ @include span(2 last); } 
-	}
-}
-
-// 3
-.i-am-groooot{ 
-	@include span(3);  
-	&:last-child{ @include span(3 last); } 
-}
 .I-Am-Groooot{
 	@include mq($from: tablet){
 		@include span(3);  
 		&:last-child{ @include span(3 last); } 
 	}
 } 
-.I-AM-GROOOOT{
-	@include mq($from: desktop){
-		@include span(3);  
-		&:last-child{ @include span(3 last); } 
-	}
-}
-
-// 4
-.i-am-grooooot{ 
-	@include span(4);  
-	&:last-child{ @include span(4 last); } 
-}
 .I-Am-Grooooot{
 	@include mq($from: tablet){
 		@include span(4);  
 		&:last-child{ @include span(4 last); } 
 	}
 } 
-.I-AM-GROOOOOT{
-	@include mq($from: desktop){
-		@include span(4);  
-		&:last-child{ @include span(4 last); } 
-	}
-}
-
-// 5
-.i-am-groooooot{ 
-	@include span(5);  
-	&:last-child{ @include span(5 last); } 
-}
 .I-Am-Groooooot{
 	@include mq($from: tablet){
 		@include span(5);  
 		&:last-child{ @include span(5 last); } 
 	}
 } 
-.I-AM-GROOOOOOT{
-	@include mq($from: desktop){
-		@include span(5);  
-		&:last-child{ @include span(5 last); } 
-	}
-}
-
-// 6
-.i-am-grooooooot{ 
-	@include span(6);  
-	&:last-child{ @include span(6 last); } 
-}
 .I-Am-Grooooooot{
 	@include mq($from: tablet){
 		@include span(6);  
 		&:last-child{ @include span(6 last); } 
 	}
 } 
-.I-AM-GROOOOOOOT{
-	@include mq($from: desktop){
-		@include span(6);  
-		&:last-child{ @include span(6 last); } 
-	}
-}
-
-// 7
-.i-am-groooooooot{ 
-	@include span(7);  
-	&:last-child{ @include span(7 last); } 
-}
 .I-Am-Groooooooot{
 	@include mq($from: tablet){
 		@include span(7);  
 		&:last-child{ @include span(7 last); } 
 	}
 } 
-.I-AM-GROOOOOOOOT{
-	@include mq($from: desktop){
-		@include span(7);  
-		&:last-child{ @include span(7 last); } 
-	}
-}
-
-// 8
-.i-am-grooooooooot{ 
-	@include span(8);  
-	&:last-child{ @include span(8 last); } 
-}
 .I-Am-Grooooooooot{
 	@include mq($from: tablet){
 		@include span(8);  
 		&:last-child{ @include span(8 last); } 
 	}
 } 
-.I-AM-GROOOOOOOOOT{
-	@include mq($from: desktop){
-		@include span(8);  
-		&:last-child{ @include span(8 last); } 
-	}
-}
-
-// 9
-.i-am-groooooooooot{ 
-	@include span(9);  
-	&:last-child{ @include span(9 last); } 
-}
 .I-Am-Groooooooooot{
 	@include mq($from: tablet){
 		@include span(9);  
 		&:last-child{ @include span(9 last); } 
 	}
 } 
-.I-AM-GROOOOOOOOOOT{
-	@include mq($from: desktop){
-		@include span(9);  
-		&:last-child{ @include span(9 last); } 
-	}
-}
-
-// 10
-.i-am-grooooooooooot{ 
-	@include span(10);  
-	&:last-child{ @include span(10 last); } 
-}
 .I-Am-Grooooooooooot{
 	@include mq($from: tablet){
 		@include span(10);  
 		&:last-child{ @include span(10 last); } 
 	}
 } 
-.I-AM-GROOOOOOOOOOOT{
-	@include mq($from: desktop){
-		@include span(10);  
-		&:last-child{ @include span(10 last); } 
-	}
-}
-
-// 11
-.i-am-groooooooooooot{ 
-	@include span(11);  
-	&:last-child{ @include span(11 last); } 
-}
 .I-Am-Groooooooooooot{
 	@include mq($from: tablet){
 		@include span(11);  
 		&:last-child{ @include span(11 last); } 
 	}
 } 
-.I-AM-GROOOOOOOOOOOOT{
-	@include mq($from: desktop){
-		@include span(11);  
-		&:last-child{ @include span(11 last); } 
-	}
-}
-
-// 12
-.i-am-grooooooooooooot{ 
-	@include span(12);  
-	&:last-child{ @include span(12 last); } 
-}
 .I-Am-Grooooooooooooot{
 	@include mq($from: tablet){
 		@include span(12);  
 		&:last-child{ @include span(12 last); } 
 	}
 } 
+
+// Desktop
+.I-AM-GROOT{
+	@include mq($from: desktop){
+		@include span(1);  
+		&:last-child{ @include span(1 last); } 
+	}
+}
+.I-AM-GROOOT{
+	@include mq($from: desktop){
+		@include span(2);  
+		&:last-child{ @include span(2 last); } 
+	}
+}
+.I-AM-GROOOOT{
+	@include mq($from: desktop){
+		@include span(3);  
+		&:last-child{ @include span(3 last); } 
+	}
+}
+.I-AM-GROOOOOT{
+	@include mq($from: desktop){
+		@include span(4);  
+		&:last-child{ @include span(4 last); } 
+	}
+}
+.I-AM-GROOOOOOT{
+	@include mq($from: desktop){
+		@include span(5);  
+		&:last-child{ @include span(5 last); } 
+	}
+}
+.I-AM-GROOOOOOOT{
+	@include mq($from: desktop){
+		@include span(6);  
+		&:last-child{ @include span(6 last); } 
+	}
+}
+.I-AM-GROOOOOOOOT{
+	@include mq($from: desktop){
+		@include span(7);  
+		&:last-child{ @include span(7 last); } 
+	}
+}
+.I-AM-GROOOOOOOOOT{
+	@include mq($from: desktop){
+		@include span(8);  
+		&:last-child{ @include span(8 last); } 
+	}
+}
+.I-AM-GROOOOOOOOOOT{
+	@include mq($from: desktop){
+		@include span(9);  
+		&:last-child{ @include span(9 last); } 
+	}
+}
+.I-AM-GROOOOOOOOOOOT{
+	@include mq($from: desktop){
+		@include span(10);  
+		&:last-child{ @include span(10 last); } 
+	}
+}
+.I-AM-GROOOOOOOOOOOOT{
+	@include mq($from: desktop){
+		@include span(11);  
+		&:last-child{ @include span(11 last); } 
+	}
+}
 .I-AM-GROOOOOOOOOOOOOT{
 	@include mq($from: desktop){
 		@include span(12);  
@@ -227,218 +210,201 @@ $susy: (
 	}
 }
 
-// 1 gutterless
+//// Gutterless
+// Mobile 
 .iamgroot{ 
 	@include span(1 inside);  
-	&:last-child{ @include span(1 last); } 
+	&:last-child{ @include span(1 last inside); } 
 }
+.iamgrooot{ 
+	@include span(2 inside);  
+	&:last-child{ @include span(2 last inside); } 
+}
+.iamgroooot{ 
+	@include span(3 inside);  
+	&:last-child{ @include span(3 last inside); } 
+}
+.iamgrooooot{ 
+	@include span(4 inside);  
+	&:last-child{ @include span(4 last inside); } 
+}
+.iamgroooooot{ 
+	@include span(5 inside);  
+	&:last-child{ @include span(5 last inside); } 
+}
+.iamgrooooooot{ 
+	@include span(6 inside);  
+	&:last-child{ @include span(6 last inside); } 
+}
+.iamgroooooooot{ 
+	@include span(7 inside);  
+	&:last-child{ @include span(7 last inside); } 
+}
+.iamgrooooooooot{ 
+	@include span(8 inside);  
+	&:last-child{ @include span(8 last inside); } 
+}
+.iamgroooooooooot{ 
+	@include span(9 inside);  
+	&:last-child{ @include span(9 last inside); } 
+}
+.iamgrooooooooooot{ 
+	@include span(10 inside);  
+	&:last-child{ @include span(10 last inside); } 
+}
+.iamgroooooooooooot{ 
+	@include span(11 inside);  
+	&:last-child{ @include span(11 last inside); } 
+}
+.iamgrooooooooooooot{ 
+	@include span(12 inside);  
+	&:last-child{ @include span(12 last inside); } 
+}
+
+// Tablet
 .IAmGroot{
 	@include mq($from: tablet){
 		@include span(1 inside);  
-		&:last-child{ @include span(1 last); } 
+		&:last-child{ @include span(1 last inside); } 
 	}
 } 
-.IAMGROOT{
-	@include mq($from: desktop){
-		@include span(1 inside);  
-		&:last-child{ @include span(1 last); } 
-	}
-}
-
-// 2 gutterless
-.iamgrooot{ 
-	@include span(2 inside);  
-	&:last-child{ @include span(2 last); } 
-}
 .IAmGrooot{
 	@include mq($from: tablet){
 		@include span(2 inside);  
-		&:last-child{ @include span(2 last); } 
+		&:last-child{ @include span(2 last inside); } 
 	}
 } 
-.IAMGROOOT{
-	@include mq($from: desktop){
-		@include span(2 inside);  
-		&:last-child{ @include span(2 last); } 
-	}
-}
-
-// 3 gutterless
-.iamgroooot{ 
-	@include span(3 inside);  
-	&:last-child{ @include span(3 last); } 
-}
 .IAmGroooot{
 	@include mq($from: tablet){
 		@include span(3 inside);  
-		&:last-child{ @include span(3 last); } 
+		&:last-child{ @include span(3 last inside); } 
 	}
 } 
-.IAMGROOOOT{
-	@include mq($from: desktop){
-		@include span(3 inside);  
-		&:last-child{ @include span(3 last); } 
-	}
-}
-
-// 4 gutterless
-.iamgrooooot{ 
-	@include span(4 inside);  
-	&:last-child{ @include span(4 last); } 
-}
 .IAmGrooooot{
 	@include mq($from: tablet){
 		@include span(4 inside);  
-		&:last-child{ @include span(4 last); } 
+		&:last-child{ @include span(4 last inside); } 
 	}
 } 
-.IAMGROOOOOT{
-	@include mq($from: desktop){
-		@include span(4 inside);  
-		&:last-child{ @include span(4 last); } 
-	}
-}
-
-// 5 gutterless
-.iamgroooooot{ 
-	@include span(5 inside);  
-	&:last-child{ @include span(5 last); } 
-}
 .IAmGroooooot{
 	@include mq($from: tablet){
 		@include span(5 inside);  
-		&:last-child{ @include span(5 last); } 
+		&:last-child{ @include span(5 last inside); } 
 	}
 } 
-.IAMGROOOOOOT{
-	@include mq($from: desktop){
-		@include span(5 inside);  
-		&:last-child{ @include span(5 last); } 
-	}
-}
-
-// 6 gutterless
-.iamgrooooooot{ 
-	@include span(6 inside);  
-	&:last-child{ @include span(6 last); } 
-}
 .IAmGrooooooot{
 	@include mq($from: tablet){
 		@include span(6 inside);  
-		&:last-child{ @include span(6 last); } 
+		&:last-child{ @include span(6 last inside); } 
 	}
 } 
-.IAMGROOOOOOOT{
-	@include mq($from: desktop){
-		@include span(6 inside);  
-		&:last-child{ @include span(6 last); } 
-	}
-}
-
-// 7 gutterless
-.iamgroooooooot{ 
-	@include span(7 inside);  
-	&:last-child{ @include span(7 last); } 
-}
 .IAmGroooooooot{
 	@include mq($from: tablet){
 		@include span(7 inside);  
-		&:last-child{ @include span(7 last); } 
+		&:last-child{ @include span(7 last inside); } 
 	}
 } 
-.IAMGROOOOOOOOT{
-	@include mq($from: desktop){
-		@include span(7 inside);  
-		&:last-child{ @include span(7 last); } 
-	}
-}
-
-// 8 gutterless
-.iamgrooooooooot{ 
-	@include span(8 inside);  
-	&:last-child{ @include span(8 last); } 
-}
 .IAmGrooooooooot{
 	@include mq($from: tablet){
 		@include span(8 inside);  
-		&:last-child{ @include span(8 last); } 
+		&:last-child{ @include span(8 last inside); } 
 	}
 } 
-.IAMGROOOOOOOOOT{
-	@include mq($from: desktop){
-		@include span(8 inside);  
-		&:last-child{ @include span(8 last); } 
-	}
-}
-
-// 9 gutterless
-.iamgroooooooooot{ 
-	@include span(9 inside);  
-	&:last-child{ @include span(9 last); } 
-}
 .IAmGroooooooooot{
 	@include mq($from: tablet){
 		@include span(9 inside);  
-		&:last-child{ @include span(9 last); } 
+		&:last-child{ @include span(9 last inside); } 
 	}
 } 
-.IAMGROOOOOOOOOOT{
-	@include mq($from: desktop){
-		@include span(9 inside);  
-		&:last-child{ @include span(9 last); } 
-	}
-}
-
-// 10 gutterless
-.iamgrooooooooooot{ 
-	@include span(10 inside);  
-	&:last-child{ @include span(10 last); } 
-}
 .IAmGrooooooooooot{
 	@include mq($from: tablet){
 		@include span(10 inside);  
-		&:last-child{ @include span(10 last); } 
+		&:last-child{ @include span(10 last inside); } 
 	}
 } 
-.IAMGROOOOOOOOOOOT{
-	@include mq($from: desktop){
-		@include span(10 inside);  
-		&:last-child{ @include span(10 last); } 
-	}
-}
-
-// 11 gutterless
-.iamgroooooooooooot{ 
-	@include span(11 inside);  
-	&:last-child{ @include span(11 last); } 
-}
 .IAmGroooooooooooot{
 	@include mq($from: tablet){
 		@include span(11 inside);  
-		&:last-child{ @include span(11 last); } 
+		&:last-child{ @include span(11 last inside); } 
 	}
 } 
-.IAMGROOOOOOOOOOOOT{
-	@include mq($from: desktop){
-		@include span(11 inside);  
-		&:last-child{ @include span(11 last); } 
-	}
-}
-
-// 12 gutterless
-.iamgrooooooooooooot{ 
-	@include span(12 inside);  
-	&:last-child{ @include span(12 last); } 
-}
 .IAmGrooooooooooooot{
 	@include mq($from: tablet){
 		@include span(12 inside);  
-		&:last-child{ @include span(12 last); } 
+		&:last-child{ @include span(12 last inside); } 
 	}
 } 
+
+// Desktop
+.IAMGROOT{
+	@include mq($from: desktop){
+		@include span(1 inside);  
+		&:last-child{ @include span(1 last inside); } 
+	}
+}
+.IAMGROOOT{
+	@include mq($from: desktop){
+		@include span(2 inside);  
+		&:last-child{ @include span(2 last inside); } 
+	}
+}
+.IAMGROOOOT{
+	@include mq($from: desktop){
+		@include span(3 inside);  
+		&:last-child{ @include span(3 last inside); } 
+	}
+}
+.IAMGROOOOOT{
+	@include mq($from: desktop){
+		@include span(4 inside);  
+		&:last-child{ @include span(4 last inside); } 
+	}
+}
+.IAMGROOOOOOT{
+	@include mq($from: desktop){
+		@include span(5 inside);  
+		&:last-child{ @include span(5 last inside); } 
+	}
+}
+.IAMGROOOOOOOT{
+	@include mq($from: desktop){
+		@include span(6 inside);  
+		&:last-child{ @include span(6 last inside); } 
+	}
+}
+.IAMGROOOOOOOOT{
+	@include mq($from: desktop){
+		@include span(7 inside);  
+		&:last-child{ @include span(7 last inside); } 
+	}
+}
+.IAMGROOOOOOOOOT{
+	@include mq($from: desktop){
+		@include span(8 inside);  
+		&:last-child{ @include span(8 last inside); } 
+	}
+}
+.IAMGROOOOOOOOOOT{
+	@include mq($from: desktop){
+		@include span(9 inside);  
+		&:last-child{ @include span(9 last inside); } 
+	}
+}
+.IAMGROOOOOOOOOOOT{
+	@include mq($from: desktop){
+		@include span(10 inside);  
+		&:last-child{ @include span(10 last inside); } 
+	}
+}
+.IAMGROOOOOOOOOOOOT{
+	@include mq($from: desktop){
+		@include span(11 inside);  
+		&:last-child{ @include span(11 last inside); } 
+	}
+}
 .IAMGROOOOOOOOOOOOOT{
 	@include mq($from: desktop){
 		@include span(12 inside);  
-		&:last-child{ @include span(12 last); } 
+		&:last-child{ @include span(12 last inside); } 
 	}
 }
