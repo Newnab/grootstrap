@@ -7,7 +7,7 @@ Did you know that Bootstrap features approximately zero Marvel movie references?
 Simply grab the grootstrap.min.css file (or grootstrap.css, if you prefer) and add it to your project. 
 
 ##Rows
-Make a row or new layout context by adding the class we-are-groot to your container. 
+Make a row or new layout context by adding the class `we-are-groot` to your container. 
 
 ##Columns
 Here's where it gets fun. The number of o's in the word groot dictates how many columns to span, starting from two o's.
@@ -24,4 +24,6 @@ Grootstrap is mobile first and comes with two baked in breakpoints - Use titleca
 
 In this example, the div will span 12 columns on mobile, 6 on tablet and 4 on desktop. Resize the page to see it in action below
 
-More docs to follow.
+## I need more help!
+
+Check out []the examples page](https://cdn.rawgit.com/Newnab/grootstrap/master/examples.html)!
