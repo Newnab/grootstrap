@@ -22,7 +22,7 @@ Grootstrap is mobile first and comes with two baked in breakpoints - Use titleca
 
 ```<div class="i-am-grooooooooooooot I-Am-Grooooooot I-AM-GROOOOT">l</div>```
 
-In this example, the div will span 12 columns on mobile, 6 on tablet and 4 on desktop. Resize the page to see it in action below
+In this example, the div will span 12 columns on mobile, 6 on tablet and 4 on desktop. 
 
 ## I need more help!
 
