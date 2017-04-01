@@ -13,7 +13,10 @@
 		<link href="grootstrap.css" rel="stylesheet" />
 		<link href="example-stylesheet.css" rel="stylesheet" />
 
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.5/webfontloader.js"></script>
+		<link href="https://fonts.googleapis.com/css?family=Jockey+One|VT323" rel="stylesheet">
+
+
+		<!-- OLD FONTS <script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.5/webfontloader.js"></script>
         <script type="text/javascript">
             WebFont.load({
 				google: {
@@ -21,7 +24,7 @@
 				},
                 timeout: 5000 // Set the timeout
             });
-        </script>
+        </script>-->
 
         <script type="text/javascript">
             // Uncomment this and add the GA number
@@ -41,21 +44,53 @@
             <div class="old-browser-msg-container container"><div class="wrapper old-browser-mg">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div></div>
         <![endif]-->
 
+
         <div class="header-container container">
             <header class="wrapper clearfix">
-				<img class="grootstrap-logo" src="grootstrap-logo.png" alt="I am Groot" />
+            	
+				<img class="grootstrap-logo" src="grootstrap-logo.svg" alt="I am Groot" />
                 <h1>Roots for your responsive site</h1>
+
+                <div class='groot-img'>
+            		<img src="groot.png">
+            	</div>
             </header>
         </div>
-        <div class="main-container container">
-            <div class="main wrapper clearfix">
+        <div class="container">
+            <div class="main wrapper clearfix background content-bg intro">
 				<h2>What the hell?</h2>
 				<p>Did you know that Bootstrap features approximately zero Marvel movie references? That's just not acceptable in this day and age, is it? So I've clumsily shoehorned Vin Diesel's sensational work as a talking tree into a CSS stylesheet and made it into a thing you could theoretically actually use in production. For those of you who want to cover your markup in excessive, hard to read references to Guardians of the Galaxy, this is the grid framework for you. <a href="https://github.com/Newnab/grootstrap">Grab it from Github if you want</a>.</p>
+			</div>
+		</div>
+
+		<div class="container">
+            <div class="main wrapper clearfix background content-bg intro">
 				<h2>Rows</h2>
 				<p>Make a row or new layout context by adding the class <code>we-are-groot</code> to your container. Faster than <a href="https://www.youtube.com/watch?v=svtLfoGH19c">Drax' reflexes</a>, and easier than an <a href=""http://marvelcinematicuniverse.wikia.com/wiki/Aaskvarians">Aaskvarian</a>.</p>
+				<p> <form action="/action_page.php">
+  First name: <input type="text" name="fname"><br>
+  Last name: <input type="text" name="lname"><br>
+  <input type="submit" value="Submit">
+</form></p>
+			</div>
+		</div>
+
+		<div class="container">
+            <div class="main wrapper clearfix background content-bg intro">
 				<h2>Columns</h2>
 				<p>Here's where it gets fun. The number of o's in the word groot dictates how many columns to span, starting from two o's.</p>
 				<p> That means that <code>i-am-groot</code> will span 1, <code>i-am-grooot</code> will span 2, and so on, right up to <code>i-am-grooooooooooooot</code> which will span all 12 columns.</p>
+			</div>
+		</div>
+
+        <div class="main-container container">
+            <div class="main wrapper clearfix background content-bg">
+				<div class="we-are-groot">
+                    <div class="i-am-grooooooot grid-example"></div>
+                    <div class="i-am-grooooooot grid-example"></div>
+                </div>
+
+				
 				<h2>Grid</h2>
 				<div class="we-are-groot">
                     <div class="i-am-groot grid-example">1</div>
@@ -125,6 +160,11 @@
                     <div class="iamgrooooooooot grid-example grid-example-gutterless">1</div>
                     <div class="iamgrooooot grid-example grid-example-gutterless">2</div>
                 </div>
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
+        
+        <div class="container">
+            <div class="main wrapper clearfix background content-bg intro">
 				<h2>Responsive</h2>
 				<p>Grootstrap is mobile first and comes with two baked in breakpoints - Use titlecase to indicate a tablet column width, and uppercase to indicate a desktop column width.</p>
 				<p><pre>&lt;div class="i-am-grooooooooooooot I-Am-Grooooooot I-AM-GROOOOT"&gtl&lt;/div&gt;</pre></p>
@@ -143,6 +183,11 @@
 					<div class="iamgrooooooooooooot IAmGrooooooot IAMGROOOOT grid-example grid-example-gutterless">3</div>
 					<div class="iamgrooooooooooooot IAmGrooooooot IAMGROOOOT grid-example grid-example-gutterless">4</div>
                 </div>
+			</div>
+		</div>
+
+        <div class="container">
+            <div class="main wrapper clearfix background content-bg intro">
 				<h2>FAQs</h2>
 				<h3>The responsive stuff doesn't work for me!</h3>
 				<p>There's probably an issue with your doctype declaration and you're ending up in quirks mode or something. See <a href="http://stackoverflow.com/questions/12533926/are-class-names-in-css-selectors-case-sensitive#answer-12533957">this Stack Overflow answer</a> for more information on case sensitivity in class names.</p>
@@ -150,8 +195,8 @@
 				<p>Well, I made this using <a href="http://susy.oddbird.net/">Susy</a>, which is excellent. So... Go try that.</p>
 				<h3>What is wrong with you?</h3>
 				<p>I've got issues.</p>
-            </div> <!-- #main -->
-        </div> <!-- #main-container -->
+			</div>
+		</div>
 
         <div class="footer-container container">
             <footer class="wrapper">
