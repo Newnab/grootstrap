@@ -1,0 +1,16 @@
+{
+  "name": "grootstrap",
+  "homepage": "https://github.com/Newnab/grootstrap",
+  "authors": [
+    "Adam Burt <adam.burt@etchuk.com>"
+  ],
+  "description": "Roots for your responsive site",
+  "main": [
+    "grootstrap.min.css",
+    "grootstrap.min.js"
+  ],
+  "keywords": [
+    "groot"
+  ],
+  "license": "MIT"
+}
