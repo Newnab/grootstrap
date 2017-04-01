@@ -66,12 +66,7 @@
 		<div class="container">
             <div class="main wrapper clearfix background content-bg intro">
 				<h2>Rows</h2>
-				<p>Make a row or new layout context by adding the class <code>we-are-groot</code> to your container. Faster than <a href="https://www.youtube.com/watch?v=svtLfoGH19c">Drax' reflexes</a>, and easier than an <a href=""http://marvelcinematicuniverse.wikia.com/wiki/Aaskvarians">Aaskvarian</a>.</p>
-				<p> <form action="/action_page.php">
-  First name: <input type="text" name="fname"><br>
-  Last name: <input type="text" name="lname"><br>
-  <input type="submit" value="Submit">
-</form></p>
+				<p>Make a row or new layout context by adding the class <code>we-are-groot</code> to your container. Faster than <a href="https://www.youtube.com/watch?v=svtLfoGH19c">Drax' reflexes</a>, and easier than an <a href="http://marvelcinematicuniverse.wikia.com/wiki/Aaskvarians">Aaskvarian</a>.</p>
 			</div>
 		</div>
 
@@ -188,6 +183,17 @@
 
         <div class="container">
             <div class="main wrapper clearfix background content-bg intro">
+                <h2>jQuery Plugin</h2>
+                <p><strong>NEW FOR VOL. 2</strong> - You can now add even more Groot-based goodness to your website with our jQuery plugin. Add <pre>grootstrap.min.js</pre> or <pre>grootstrap.js</pre> to your project and then use <pre>$('.selector').grootstrap();</pre> on an <pre>&gt;input&lt;</pre> of your choice. You can try it for yourself on the form fields below.</p>
+                <form>
+                  First name: <input type="text" class="js-grootstrap" name="fname"><br>
+                  Last name: <input type="text" class="js-grootstrap" name="lname"><br>
+                </form>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="main wrapper clearfix background content-bg intro">
 				<h2>FAQs</h2>
 				<h3>The responsive stuff doesn't work for me!</h3>
 				<p>There's probably an issue with your doctype declaration and you're ending up in quirks mode or something. See <a href="http://stackoverflow.com/questions/12533926/are-class-names-in-css-selectors-case-sensitive#answer-12533957">this Stack Overflow answer</a> for more information on case sensitivity in class names.</p>
@@ -203,5 +209,10 @@
                 Well, this is dumb. I blame <a href="https://twitter.com/Jacky_Vee_">Matt Jackson</a>. Hit me up on <a href="http://www.twitter.com/Newnab">Twitter</a> if you like it. 
             </footer>
         </div>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="groostrap.min.js"></script>
+        <script>
+            $('.js-grootstrap').grootstrap();
+        </script>
     </body>
 </html>
